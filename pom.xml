@@ -6,7 +6,7 @@
 
   <groupId>org.cneko.ctlib</groupId>
   <artifactId>Spigot_Language_Kotlin</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>0.1.1</version>
   <packaging>jar</packaging>
 
   <name>Spigot_Language_Kotlin</name>
@@ -58,9 +58,18 @@
           <id>sonatype</id>
           <url>https://oss.sonatype.org/content/groups/public/</url>
       </repository>
+      <repository>
+          <id>AlessioDP</id>
+          <url>https://repo.alessiodp.com/releases/</url>
+      </repository>
   </repositories>
 
   <dependencies>
+      <dependency>
+          <groupId>net.byteflux</groupId>
+          <artifactId>libby-bukkit</artifactId>
+          <version>1.1.5</version>
+      </dependency>
       <dependency>
           <groupId>org.spigotmc</groupId>
           <artifactId>spigot-api</artifactId>
