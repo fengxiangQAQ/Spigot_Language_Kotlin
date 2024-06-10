@@ -1,0 +1,4 @@
+name: Spigot_Language_Kotlin
+version: '${project.version}'
+main: org.cneko.ctlib.spigot_language_kotlin.Spigot_Language_Kotlin
+api-version: '1.14'
