@@ -6,7 +6,7 @@
 
   <groupId>org.cneko.ctlib</groupId>
   <artifactId>Spigot_Language_Kotlin</artifactId>
-  <version>0.1.1</version>
+  <version>0.1.2</version>
   <packaging>jar</packaging>
 
   <name>Spigot_Language_Kotlin</name>
